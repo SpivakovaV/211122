@@ -1,0 +1,15 @@
+C:\Users\User-b\Desktop\211122seckond\bin\Debug\net6.0\211122seckond.exe
+C:\Users\User-b\Desktop\211122seckond\bin\Debug\net6.0\211122seckond.deps.json
+C:\Users\User-b\Desktop\211122seckond\bin\Debug\net6.0\211122seckond.runtimeconfig.json
+C:\Users\User-b\Desktop\211122seckond\bin\Debug\net6.0\211122seckond.dll
+C:\Users\User-b\Desktop\211122seckond\bin\Debug\net6.0\211122seckond.pdb
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\211122seckond.csproj.AssemblyReference.cache
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\211122seckond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\211122seckond.AssemblyInfoInputs.cache
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\211122seckond.AssemblyInfo.cs
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\211122seckond.csproj.CoreCompileInputs.cache
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\211122seckond.dll
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\refint\211122seckond.dll
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\211122seckond.pdb
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\211122seckond.genruntimeconfig.cache
+C:\Users\User-b\Desktop\211122seckond\obj\Debug\net6.0\ref\211122seckond.dll
