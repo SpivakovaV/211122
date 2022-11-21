@@ -1,0 +1,15 @@
+C:\Users\User-b\Desktop\ProjectsVita\axample01\bin\Debug\net6.0\axample01.exe
+C:\Users\User-b\Desktop\ProjectsVita\axample01\bin\Debug\net6.0\axample01.deps.json
+C:\Users\User-b\Desktop\ProjectsVita\axample01\bin\Debug\net6.0\axample01.runtimeconfig.json
+C:\Users\User-b\Desktop\ProjectsVita\axample01\bin\Debug\net6.0\axample01.dll
+C:\Users\User-b\Desktop\ProjectsVita\axample01\bin\Debug\net6.0\axample01.pdb
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\axample01.csproj.AssemblyReference.cache
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\axample01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\axample01.AssemblyInfoInputs.cache
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\axample01.AssemblyInfo.cs
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\axample01.csproj.CoreCompileInputs.cache
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\axample01.dll
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\refint\axample01.dll
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\axample01.pdb
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\axample01.genruntimeconfig.cache
+C:\Users\User-b\Desktop\ProjectsVita\axample01\obj\Debug\net6.0\ref\axample01.dll
